@@ -25,3 +25,7 @@ AD有待显示波形
 需要加入设置：包括开发者选项 美化串口选择页面  
 尝试增加新应用，把主页图标进行滚动动画  
 led页待完善  
+
+# 感谢Aliya工作室的支持
+
+<img width="500" height="690" alt="image" src="https://github.com/user-attachments/assets/407f1258-ee17-40ce-97b5-99ffc11493d9" />
